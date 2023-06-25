@@ -1,7 +1,7 @@
 ### Hi there 👋
 Je suis **Livaï**
 
-> Je travail en Centrale Nucléaire 
+> Je travail comme Technicien CND en Centrale Nucléaire 
 
 ![火力電廠ThermalPowerPlandGIF](https://github.com/merliotte/merliotte/assets/105237073/e612aeaf-a3e5-43c0-b3b2-ddc3b97c3243)
 
