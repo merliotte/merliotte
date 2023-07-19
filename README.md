@@ -7,7 +7,9 @@ Je suis **Livaï**
 
 
 <p>
- 🔭 **En formation web développeur chez OpenClassrooms** <br/>
+ 🔭 
+ En formation web développeur chez OpenClassrooms
+ <br/>
   <img width="50px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_OpenClassrooms.png/225px-Logo_OpenClassrooms.png" alt"HTML"/>
 </p>
 
@@ -15,7 +17,7 @@ Je suis **Livaï**
 
   **Les langages et Frameworks**: 
 
-   *HTML, CSS (SASS), JS, Node.js, MongoDB lors et REACT de cette formation. Je me suis également lancé le défi d’en apprendre plus sur *Javascript* *Vue.js* ainsi     que *MYSQL*.
+   HTML, CSS (SASS), JS, Node.js, MongoDB lors et REACT de cette formation. Je me suis également lancé le défi d’en apprendre plus sur *Javascript* *Vue.js* ainsi     que *MYSQL*.
 
   💻 Je suis à la recherche d’une alternance en tant que développeur JavaScript / REACT, commençant au plus tôt, afin de me lancer dans la formation «   Développeur Frontend Javascript et REACT » d’OpenClassrooms.
 
