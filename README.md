@@ -7,8 +7,9 @@ Je suis **Livaï**
 
  🔭 **En formation web développeur chez OpenClassrooms**
  <br/>
+ <p>
   <img width="50px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_OpenClassrooms.png/225px-Logo_OpenClassrooms.png" alt"HTML"/>
-
+ </p>
 ## 🌱 Les acquis de la formation.
 
   **Les langages et Frameworks**: 
