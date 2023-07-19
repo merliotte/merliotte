@@ -5,13 +5,9 @@ Je suis **Livaï**
 
 ![火力電廠ThermalPowerPlandGIF](https://github.com/merliotte/merliotte/assets/105237073/e612aeaf-a3e5-43c0-b3b2-ddc3b97c3243)
 
-
-<p>
- 🔭 
- En formation web développeur chez OpenClassrooms
+ 🔭 **En formation web développeur chez OpenClassrooms**
  <br/>
   <img width="50px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_OpenClassrooms.png/225px-Logo_OpenClassrooms.png" alt"HTML"/>
-</p>
 
 ## 🌱 Les acquis de la formation.
 
