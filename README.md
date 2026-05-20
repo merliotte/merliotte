@@ -1,4 +1,4 @@
-# 👋 Hello ! 
+# 👋 MONTEUR VIDEO ! 
 
 Retrouvez l'ensemble de mes travaux, mes études de cas et mon parcours professionnel sur mon site personnel. 
 N'hésitez pas à me contacter via la section dédiée pour toute collaboration !
